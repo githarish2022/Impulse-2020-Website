@@ -1,318 +1,261 @@
-body {
-    background-color: #011638;
+body{
+	background-color:#011638;
 }
-
-.logo {
-    width: 30px;
-    height: 30px;
-    overflow: hidden;
+.logo{
+	width: 30px;
+	height: 30px;
+	overflow: hidden;
 }
-
-.logo_text {
-    margin-top: 7%;
-    padding-top: 2%;
-    width: 30%;
-    height: auto;
-    float: left;
+.logo_text{
+	
 }
-
-.highlight {
-    color: #ed254e;
-    border-color: #ed254e;
+.highlight{
+	color: #ed254e;
+	border-color: #ed254e;
 }
-
-.highlight1 {
-    color: #25ced1;
-    border-color: #25ced1;
+.highlight1{
+	color: #25ced1;
+	border-color: #25ced1;
 }
-
-.highlight:hover {
-    background-color: #ed254e !important;
-    color: #ffffff;
+.highlight:hover{
+	background-color: #ed254e !important;
+	color:#ffffff;
 }
-
-.highlight:active {
-    color: #ffffff;
-    background-color: transparent;
+.highlight:active{
+	color : #ffffff;
+	background-color: transparent;
 }
-
-.highlight1:hover {
-    background-color: #25ced1 !important;
-    color: #ffffff;
+.highlight1:hover{
+	background-color: #25ced1 !important;
+	color:#ffffff;
 }
-
-.highlight1:active {
-    color: #ffffff;
-    background-color: transparent;
+.highlight1:active{
+	color : #ffffff;
+	background-color: transparent;
 }
-
-.clr {
-    background-color: #0d3c79;
-    /*background-color:#1d8cf8;*/
-    /*background-color:#25ced1;*/
+.clr{
+	background-color: #0d3c79;
+	/*background-color:#1d8cf8;*/
+	/*background-color:#25ced1;*/
 }
-
-#rule {
-    margin-top: 80px;
-    padding-left: 15px;
-    margin-bottom: 20px;
+#rule{
+	margin-top: 80px;
+	padding-left: 15px;
+	margin-bottom: 20px;
 }
+#faq{
+	margin-top: 80px;
+	padding-left: 15px;
+	margin-bottom: 20px;
 
-#faq {
-    margin-top: 80px;
-    padding-left: 15px;
-    margin-bottom: 20px;
 }
-
-#contact {
-    margin-top: 80px;
-    padding-left: 15px;
-    margin-bottom: 20px;
+#contact{
+	margin-top: 80px;
+	padding-left: 15px;
+	margin-bottom: 20px;
 }
-
-#footer {
-    background: #011638;
+#footer{
+	background: #011638;
 }
-
-#footer1 {
-    background: black;
+#footer1{
+	background:black;
 }
-
-.cnt {
-    display: inline-block;
-    margin-left: 10px;
-    color: white !important;
-    font-weight: 300 !important;
-    font-size: 15px !important;
-    width: 20%;
+.cnt{
+	display: inline-block;
+	margin-left: 10px;
+	
+	color: white !important;
+	font-weight: 300 !important;
+	font-size: 15px !important;
+	width: 20% ;
 }
-
-.cnt_int {
-    display: inline-block;
-    margin-left: 10px;
-    color: black !important;
-    font-weight: 700 !important;
-    font-size: 15px !important;
-    width: 20%;
+.cnt_int{
+	display: inline-block;
+	margin-left: 10px;
+	
+	color: black !important;
+	font-weight: 700 !important;
+	font-size: 15px !important;
+	width: 20% ;
 }
-
-.nmb {
-    color: white !important;
-    font-weight: 300 !important;
-    font-size: 15px !important;
+.nmb{
+	color: white !important;
+	font-weight: 300 !important;
+	font-size: 15px !important;
 }
-
-.nmb_int {
-    color: black !important;
-    font-weight: 600 !important;
-    font-size: 15px !important;
+.nmb_int{
+	color: black !important;
+	font-weight: 600 !important;
+	font-size: 15px !important;
 }
-
-.rule-content {
-    padding-left: 15px;
-    padding-right: 15px;
+.rule-content{
+	padding-left : 15px;
+	padding-right: 15px;
 }
-
-.line-content {
-    margin-bottom: 10px;
+.line-content{
+	margin-bottom: 10px;
 }
-
-.event_banner {
-    padding-top: 30px;
-    width: 100%;
+.event_banner{
+	padding-top: 30px;
+	width: 100%;
 }
-
 .event-title {
-    font-size: 3rem;
-    font-weight: 600;
+	font-size: 3rem;
+	font-weight: 600;
 }
-
-.page-title {
-    display: none;
-    /*margin: auto;*/
-    margin-top: 100px;
-    width: 100%;
-    text-align: center;
-    height: 5vh;
+.page-title{
+	display: none;
+	/*margin: auto;*/
+	margin-top: 100px;
+	width: 100%;
+	text-align: center;
+	height: 5vh;
 }
-
-.pd1 {
-    margin-bottom: 20px;
+.pd1{
+	margin-bottom: 20px;
 }
-
-.heading {
-    font-size: 18px;
-    color: #25ced1;
+.heading{
+	font-size: 18px;
+	color: #25ced1;
 }
-
-.rule-text {
-    font-size: 15px;
-    color: white;
-    margin-bottom: 30px;
+.rule-text{
+	font-size: 15px;
+	color: white;
+	margin-bottom: 30px;
 }
-
-.rule-text-in {
-    font-size: 15px;
-    color: white;
-    margin-bottom: 15px;
+.rule-text-in{
+	font-size: 15px;
+	color: white;
+	margin-bottom: 15px;
 }
-
-.faq-text {
-    font-size: 15px;
-    margin-bottom: 30px;
+.faq-text{
+	font-size: 15px;
+	margin-bottom: 30px;
 }
-
-#title {
-    color: #e14eca;
-    margin: 0;
+#title{
+	color: #e14eca;
+	margin: 0;
 }
-
-.rule-heading {
-    padding-top: 0;
+.rule-heading{
+	padding-top: 0;
 }
-
-.faq-heading {
-    margin-bottom: 5px;
-    font-weight: 500;
-    text-transform: none !important;
-    position: relative;
-    padding-left: 1rem;
+.faq-heading{
+	margin-bottom: 5px;
+	font-weight: 500;
+	text-transform: none !important;
+	position: relative;
+	padding-left: 1rem;
 }
-
-.faq-heading:hover,
-.faq-heading:focus {
-    color: #25ced1;
+.faq-heading:hover, .faq-heading:focus {
+	color: #25ced1;
 }
-
 .faq-heading::before {
-    content: '';
-    border-width: .4rem;
-    border-style: solid;
-    border-color: transparent transparent transparent #25ced1;
-    position: absolute;
-    top: 50%;
-    left: 0;
-    transform: rotate(0deg) translateY(-50%);
-    transform-origin: 28% 0;
-    transition: .25s transform ease;
+	content: '';
+  border-width: .4rem;
+  border-style: solid;
+  border-color: transparent transparent transparent #25ced1;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: rotate(0deg) translateY(-50%);
+  transform-origin: 28% 0;
+  transition: .25s transform ease;
 }
-
 .faq-heading[aria-expanded="false"]::before {
-    transform: rotate(0deg) translateY(-50%);
+	transform: rotate(0deg) translateY(-50%);
 }
-
 .faq-heading[aria-expanded="true"]::before {
-    transform: rotate(90deg) translateY(-50%);
+	transform: rotate(90deg) translateY(-50%);
+}
+.collapse-box{
+	margin-top: 10px;
+	margin-bottom: 0;
+}
+#headingOne,#headingTwo{
+	padding:0;
+}
+.bw{
+	width: 100%;
+	text-align: left;
+}
+.btn-color{
+	color:#1d8cf8;
+	transition: margin-left .5s;
+	font-weight: 400;
+	width: 100%;
 }
 
-.collapse-box {
-    margin-top: 10px;
-    margin-bottom: 0;
+.btn-color:hover{
+	margin-left: .5em;
+	background-color: #1d8cf8;
 }
 
-#headingOne,
-#headingTwo {
-    padding: 0;
+.r-body{
+	font-weight: 300;
+	color: lightgrey;
 }
-
-.bw {
-    width: 100%;
-    text-align: left;
+.collapse-icon{
+	text-align: right;
 }
-
-.btn-color {
-    color: #1d8cf8;
-    transition: margin-left .5s;
-    font-weight: 400;
-    width: 100%;
+#first-div{
+	padding-top: 20vh;
 }
-
-.btn-color:hover {
-    margin-left: .5em;
-    background-color: #1d8cf8;
+#navigation{
+	background-color: #182f57;
 }
-
-.r-body {
-    font-weight: 300;
-    color: lightgrey;
-}
-
-.collapse-icon {
-    text-align: right;
-}
-
-#first-div {
-    padding-top: 20vh;
-}
-
-#navigation {
-    background-color: #182f57;
-}
-
 .social-icon {
-    margin: 20px 0 20px 10px;
-    color: #ffffff;
-    font-size: 1rem;
+  margin: 20px 0 20px 10px;
+  color: #ffffff;
+  font-size: 1rem;
+}
+.amn{
+	/*border-bottom: 1px dashed #FFFFFF;*/
+	/*color: #ed254e;*/
+	font-weight: 600;
+}
+#crsl{
+	margin-top: 50px;
+}
+.speaker{
+	width: 100vw;
+	overflow: hidden;
+	filter: grayscale(1);
+}
+.hc{
+	position: relative;
+	height: auto;
+}
+.in_heading{
+	position: absolute;
+	top:40%;
+	left: 10%;
+}
+.in_heading h1{
+	font-size: 50px;
+	font-weight: 900;
+}
+.in_heading h2{
+	font-size: 45px;
+	font-weight: 600;
+}
+.in_name{
+	position: absolute;
+	top:40%;
+	right: 10%;
+}
+.in_name h1,.in_name1 h1{
+	font-size: 50px;
+	font-weight: 900;
+	text-align: right;
+}
+.in_name1{
+	position: absolute;
+	top:50%;
+	right: 10%;
 }
 
-.amn {
-    /*border-bottom: 1px dashed #FFFFFF;*/
-    /*color: #ed254e;*/
-    font-weight: 600;
-}
-
-#crsl {
-    margin-top: 50px;
-}
-
-.speaker {
-    width: 100vw;
-    overflow: hidden;
-    filter: grayscale(1);
-}
-
-.hc {
-    position: relative;
-    height: auto;
-}
-
-.in_heading {
-    position: absolute;
-    top: 40%;
-    left: 10%;
-}
-
-.in_heading h1 {
-    font-size: 50px;
-    font-weight: 900;
-}
-
-.in_heading h2 {
-    font-size: 45px;
-    font-weight: 600;
-}
-
-.in_name {
-    position: absolute;
-    top: 40%;
-    right: 10%;
-}
-
-.in_name h1,
-.in_name1 h1 {
-    font-size: 50px;
-    font-weight: 900;
-    text-align: right;
-}
-
-.in_name1 {
-    position: absolute;
-    top: 50%;
-    right: 10%;
-}
-
-.int_btn {
-    background: none;
+.int_btn{
+	background: none;
     border: 2px solid;
     border-radius: 5px;
     font: inherit;
@@ -322,199 +265,171 @@ body {
     padding: 1rem;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
-    color: var(--color);
-    -webkit-transition: 0.25s;
-    transition: 0.25s;
-    --color: #ff7f82;
-    --hover: #e5ff60;
+	color: var(--color);
+	-webkit-transition: 0.25s;
+	transition: 0.25s;
+	--color: #ff7f82;
+  	--hover: #e5ff60;
 }
-
 .int_btn:hover,
 .int_btn:focus {
-    border-color: var(--hover);
+	border-color: var(--hover);
     color: #fff;
-    -webkit-box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
-    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
-    -webkit-transform: translateY(-0.25em);
-    transform: translateY(-0.25em);
+  -webkit-box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+          box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+  -webkit-transform: translateY(-0.25em);
+  transform: translateY(-0.25em);
 }
-
 .social {
-    background-color: #26547C;
-    color: #fff;
-    text-align: center;
+  background-color: #26547C;
+  color: #fff;
+  text-align: center;
 }
 
 .copyright {
-    margin: 0;
+  margin: 0;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.special{
+	font-weight: 500;
+}
+@media (max-width: 786px)
+{
+	.social-icon {
     font-size: 1rem;
-    text-align: center;
-}
+  	}
+	.copyright {
+    font-size: 1rem;
+  	}
+	.order1{
+		order: 1;
+	}
+	.order2{
+		order: 2;
+	}
+	.order3{
+		order: 3;
+	}
+	.page-title{
+		display: inline-block;
+	}
+	#first-div{
+		padding-top: 10vh;
+	}
+	.regbtnwrapper{
+	/*width: 100%;*/
+	/*padding-left: 50%;*/
+	text-align: center;
+	}
+	.regbtn{
+		width: 100%;
+		/*padding : 10px 40%;*/
+		text-align: center;
+	}
+	.cnt{
+		width: 30%;
+	}
+	.cnt_int{
+		width: 30%;
+	}
+	.in_heading{
+	position: absolute;
+	top:50%;
+	left: 50%;
+	}
+	.in_heading h1{
+		font-size: 20px;
+		font-weight: 900;
+		margin-left: -81px;
+		margin-bottom: 10px;
+	}
+	.in_heading h2{
+		font-size: 15px;
+		font-weight: 600;
+		margin-left: -45.9px;
+		margin-bottom: 10px;
+	}
+	.in_heading button{
+		margin-top: 0;
+		margin-left: -57.5px;
+	}
+	.in_name{
+		position: absolute;
+		top:20%;
+		left: 1%;
+	}
+	.in_name h1{
+		font-size: 20px;
+		font-weight: 900;
+		text-align: left;
+	}
+	.in_name1{
+		display:none;
+	}
+	#dhat{
+		display: none;
+	}
+	.typewriter1 h1 {
+	  overflow: hidden; /* Ensures the content is not revealed until the animation */
+	  border-right: .15em solid #25ced1; /* The typwriter cursor */
+	  white-space: nowrap; /* Keeps the content on a single line */
+	  /*margin: 0 auto;  Gives that scrolling effect as the typing happens */
+	  letter-spacing: .1em; /* Adjust as needed */
+	  animation: 
+	    typing 2.5s steps(30, end),
+	    blink-caret .75s step-end infinite;
+	}
 
-.special {
-    font-weight: 500;
 }
-
-@media (max-width: 786px) {
-    .social-icon {
-        font-size: 1rem;
-    }
-    .copyright {
-        font-size: 1rem;
-    }
-    .order1 {
-        order: 1;
-    }
-    .order2 {
-        order: 2;
-    }
-    .order3 {
-        order: 3;
-    }
-    .page-title {
-        display: inline-block;
-    }
-    #first-div {
-        padding-top: 10vh;
-    }
-    .regbtnwrapper {
-        /*width: 100%;*/
-        /*padding-left: 50%;*/
-        text-align: center;
-    }
-    .regbtn {
-        width: 100%;
-        /*padding : 10px 40%;*/
-        text-align: center;
-    }
-    .cnt {
-        width: 30%;
-    }
-    .cnt_int {
-        width: 30%;
-    }
-    .in_heading {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-    }
-    .in_heading h1 {
-        font-size: 20px;
-        font-weight: 900;
-        margin-left: -81px;
-        margin-bottom: 10px;
-    }
-    .in_heading h2 {
-        font-size: 15px;
-        font-weight: 600;
-        margin-left: -45.9px;
-        margin-bottom: 10px;
-    }
-    .in_heading button {
-        margin-top: 0;
-        margin-left: -57.5px;
-    }
-    .in_name {
-        position: absolute;
-        top: 20%;
-        left: 1%;
-    }
-    .in_name h1 {
-        font-size: 20px;
-        font-weight: 900;
-        text-align: left;
-    }
-    .in_name1 {
-        display: none;
-    }
-    #dhat {
-        display: none;
-    }
-    .typewriter1 h1 {
-        overflow: hidden;
-        /* Ensures the content is not revealed until the animation */
-        border-right: .15em solid #25ced1;
-        /* The typwriter cursor */
-        white-space: nowrap;
-        /* Keeps the content on a single line */
-        /*margin: 0 auto;  Gives that scrolling effect as the typing happens */
-        letter-spacing: .1em;
-        /* Adjust as needed */
-        animation: typing 2.5s steps(30, end), blink-caret .75s step-end infinite;
-    }
-}
-
 
 /* Style the button that is used to open and close the collapsible content */
-
 .collapsible {
-    background-color: #eee;
-    color: #444;
-    cursor: pointer;
-    padding: 18px;
-    width: 100%;
-    border: none;
-    text-align: left;
-    outline: none;
-    font-size: 15px;
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
 }
-
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-
-.active,
-.collapsible:hover {
-    background-color: #ccc;
+.active, .collapsible:hover {
+  background-color: #ccc;
 }
-
 
 /* Style the collapsible content. Note: hidden by default */
-
 .content {
-    padding: 0 18px;
-    display: none;
-    overflow: hidden;
-    background-color: #f1f1f1;
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
 }
-
 
 /*typewriter*/
-
 .typewriter h1 {
-    overflow: hidden;
-    /* Ensures the content is not revealed until the animation */
-    border-right: .15em solid #25ced1;
-    /* The typwriter cursor */
-    white-space: nowrap;
-    /* Keeps the content on a single line */
-    margin: 0 auto;
-    /* Gives that scrolling effect as the typing happens */
-    letter-spacing: .1em;
-    /* Adjust as needed */
-    animation: typing 3.5s steps(50, end), blink-caret .75s step-end infinite;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid #25ced1; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .1em; /* Adjust as needed */
+  animation: 
+    typing 3.5s steps(50, end),
+    blink-caret .75s step-end infinite;
 }
-
 
 /* The typing effect */
-
 @keyframes typing {
-    from {
-        width: 0
-    }
-    to {
-        width: 100%
-    }
+  from { width: 0 }
+  to { width: 100% }
 }
 
-
 /* The typewriter cursor effect */
-
 @keyframes blink-caret {
-    from,
-    to {
-        border-color: transparent
-    }
-    50% {
-        border-color: #25ced1;
-    }
+  from, to { border-color: transparent }
+  50% { border-color: #25ced1; }
 }
